@@ -76,7 +76,7 @@ class Projects extends Component {
                 <div className="project-page-container">
                     <div id="title-text">projects</div>
                     <div className="projects-container">
-                        <ProjectCard text="bruh"/>
+                        <ProjectCard image="/images/txnCalendar.svg" title="txnCalendar"/>
                     </div>
                 </div>
             </div>
